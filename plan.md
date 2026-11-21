@@ -47,3 +47,7 @@ Progress is posted as it happens. No fixed date — it's done when it's done.
 The project code is licensed under the **MIT License** — see
 [LICENSE](LICENSE). Full license text and any third-party notices ship with
 the actual release, not before; see the roadmap notes above.
+
+## Release Info
+
+This Project is NPRG - No Public Release is Guaranteed.
